@@ -1,0 +1,19 @@
+label{
+    display:inline-block ;
+    margin: 10px 0;
+}
+input{
+    border: 0;
+    border-radius: 1rem;
+    display: block;
+    font-size: 16px;
+    width: 100%;
+}
+.btn{
+background-color: cornflowerblue;
+display: block;
+margin: 10px 0;
+padding: 5px;
+font-size: 16px;
+width: 100%;
+}

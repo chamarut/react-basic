@@ -1,0 +1,17 @@
+
+.item-list{
+    padding: 0;
+    margin-bottom: 40px;
+    color: rgb(66, 27, 105);
+}
+.item-list li{
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+      margin: 10px 0;
+    position: relative;
+    height: 50px;    
+}
